@@ -3,4 +3,7 @@ _I like to try to explain the concepts I learn to myself. This allows me to chec
 
 ### Table of Contents
 #### Algorithms
-  - [Try to explain... What is Binary Search and how to implement it ?](https://github.com/LeDevNovice/Try-To-Explain/blob/master/Algos/BinarySearch/binarySearch.md)
+  - [Try to explain... What is Binary Search and how to implement it ?](https://github.com/LeDevNovice/Try-To-Explain/blob/master/Algos/binarySearch.md)
+
+#### Elasticsearch
+- [Try to explain... What is a Fuzzy Query and how does it works ?](https://github.com/LeDevNovice/Try-To-Explain/blob/master/Elasticsearch/fuzzyQuery.md)
