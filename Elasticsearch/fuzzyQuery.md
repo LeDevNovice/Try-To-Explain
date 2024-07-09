@@ -42,3 +42,7 @@ Studies show that 80% of human typographical errors can be corrected with a Leve
 For example, for the term "lobster" which contains 7 characters, two edits are possible. Elasticsearch could delete the "L" and replace the "B" with a "Y" to get the term "oyster", thus returning documents containing this term even if it was not what the user initially searched for.
 
 It's important to note that fuzziness applies to each term in the query individually and not to the entire phrase. Thus, the Levenshtein distance is calculated separately for each word if the user's search consists of a phrase or a set of terms.
+
+## Ressources : 
+### Courses
+  - **[Udemy - Complete Guide to Elasticsearch](https://www.udemy.com/course/elasticsearch-complete-guide/?couponCode=KEEPLEARNING) :** An in depth overview of Elasticsearch and its functionnalities.
