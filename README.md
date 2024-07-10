@@ -7,3 +7,6 @@ _I like to try to explain the concepts I learn to myself. This allows me to chec
 
 #### Elasticsearch
 - [Try to explain... What is a Fuzzy Query and how does it works ?](https://github.com/LeDevNovice/Try-To-Explain/blob/master/Elasticsearch/fuzzyQuery.md)
+
+#### Nestjs
+- [Try to explain... What is the difference between native TypeScript type and mapped type in NestJS ?](https://github.com/LeDevNovice/Try-To-Explain/blob/master/Nestjs/mappedTypes.md)
