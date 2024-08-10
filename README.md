@@ -5,6 +5,9 @@ _I like to try to explain the concepts I learn to myself. This allows me to chec
 #### Algorithms
   - [Try to explain... What is Binary Search and how to implement it ?](https://github.com/LeDevNovice/Try-To-Explain/blob/master/Algos/binarySearch.md)
 
+#### ComputerScience
+  - [Try to explain... Why array index starts to 0 and not to 1 ?](https://github.com/LeDevNovice/Try-To-Explain/blob/master/ComputerScience/indexArray.md)
+
 #### Elasticsearch
 - [Try to explain... What is a Fuzzy Query and how does it works ?](https://github.com/LeDevNovice/Try-To-Explain/blob/master/Elasticsearch/fuzzyQuery.md)
 
